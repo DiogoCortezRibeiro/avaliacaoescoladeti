@@ -20,7 +20,7 @@ const ListaImovel = ({navigation}) => {
             return (
                 imovel.comodos.map(comodo => {
                     return (
-                        <View key={comodo.id}>
+                        <View key={comodo.id} style={styles.borderBottom}>
                             <Text style={styles.padding02}>Id: {comodo.id}</Text>
                             <Text style={styles.padding02}>Nome: {comodo.nome}</Text>
                         </View>
