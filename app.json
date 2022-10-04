@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "escoladetifront",
+    "slug": "escoladetifront",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "escoladetifront"
+}
